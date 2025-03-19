@@ -17,7 +17,7 @@ This repository contains a modular TF2 implementations of multi-agent versions o
  [multiagent-particle-envs by openai](https://github.com/openai/multiagent-particle-envs).
 
 ## Code Structure
-We provide the code for the agents in tf2marl/agents and a finished training loop with logging
+We provide the code for the agents in tf2marl/agents and a finished training loopwith logging
 powered by sacred in train.py.
 
 We denote lists of variables corresponding to each agent with the suffix `_n`, i.e.
